@@ -46,8 +46,7 @@ a:hover {
 <h1>ANMON</h1>
 <p>.-/-./--/---/-.////
 </p>
-<a href="contact@anmon.fr" target="contact@anmon.fr">contact@anmon.fr</a>
-<p2></p2>
+<a href="mailto:email@example.com">email here</a>
 
 </body>
 </html>
