@@ -21,7 +21,7 @@ p {
 </head>
 <body>
 
-<h1>/\[\][\/]°[\]</h1>
+<h1>ANMON</h1>
 <p>contact@anmon.fr<p>
 
 </body>
