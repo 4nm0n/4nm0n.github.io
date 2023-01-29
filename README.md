@@ -14,7 +14,7 @@ h1 {
 
 p {
   font-family: fira code;
-  font-size: 8px;
+  font-size: 10px;
   text-align: left;
 }
 </style>
