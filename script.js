@@ -83,7 +83,7 @@ const typewrite = (() => {
             busy = false;
             inc();
             
-        }, Math.min(Math.max(Math.exp(Math.random() * 5 + 1), 2), 400)) // stutter
+        }, Math.min(Math.max(Math.exp(Math.random() * 5 + 1), 2), 270)) // stutter
     }
     return (_el, _str, _keepCursor = false) => {
         if (busy) {
